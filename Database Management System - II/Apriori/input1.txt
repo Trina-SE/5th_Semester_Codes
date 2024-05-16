@@ -1,0 +1,9 @@
+Bread,Butter,Chips
+Bread,Butter
+Chips,Ice-cream
+Chips,Butter
+Bread,Chips,Ice-cream
+Bread,Butter.Ice-cream
+Chips,Ice-cream
+Bread,Ice-cream
+Butter,Chips
